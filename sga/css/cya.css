@@ -1,0 +1,63 @@
+#grid-consulta-cuenta table .abono {
+	background-color: #dfd;
+}
+
+#montoseleccionado b {
+	color: blue;
+	font-size: 18px;
+}
+
+.itemsabonando{
+	background-color: #ffffcc;
+	padding: 10px;
+	border: 1px dotted #aaa;
+	border-radius: 5px;
+}
+.itemsabonando .enlace {
+}
+
+ul.listaitems{
+	width: 100px;
+	list-style: none;
+}
+ul.listaitems li{
+	overflow: auto;
+	margin: left: 10px;
+	border-bottom: 1px dashed #aaa;
+}
+
+ul.listaitems li .item{
+	float: left;
+	width: 20%;
+	
+}
+ul.listaitems li .valor{
+	float: right;
+	text-align: right;
+}
+
+
+
+ul.listaopcioneslinks{
+	overflow: auto;
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+
+ul.listaopcioneslinks li {
+	margin: 10px;
+	float: left;
+	padding: 5px;
+	background-color: white;
+	box-shadow: 3px 3px 3px #eee;
+	border-radius: 4px;
+	border: 1px solid #eee;
+}
+
+
+
+.ulaudit {
+	float: left;
+	margin-right: 30px;
+}
